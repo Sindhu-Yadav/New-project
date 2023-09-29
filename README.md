@@ -1,1 +1,2 @@
-# New-project
+hi
+this is my first repo
